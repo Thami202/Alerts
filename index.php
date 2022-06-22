@@ -138,7 +138,7 @@ require 'includes/db-inc.php';
 										
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="adduser.php">Login</a></li>
+					<li><a href="adduser.php">Daily Alerts</a></li>
 				</ul>
 			</div>
 		</div>
